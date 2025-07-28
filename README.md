@@ -23,6 +23,7 @@ Open `vpn-project.pkt` in Packet Tracer and follow the steps in `docs/setup-guid
 4. Configure SYSLOG servers on routers.
 5. Simulate network communication between zones.
 
+![VPN Config Topology](diagrams/VPN-config%20topology.PNG)
 
 
 
